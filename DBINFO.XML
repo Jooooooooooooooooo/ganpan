@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<Table>
+  <Row>
+    <CONNECTIONSTRING>LocalConnectProd</CONNECTIONSTRING>
+    <NODE>1</NODE>
+    <HOST>(local)\\SQLExpress</HOST>
+    <DATABASE>LGE.MCS</DATABASE>
+    <INTEGRATED_SECURITY>true</INTEGRATED_SECURITY>
+  </Row>
+ </Table>
+
